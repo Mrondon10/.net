@@ -1,0 +1,4 @@
+Scaffold-DbContext "Server=(localdb)\MSSQLlocaldb;Database=AhorrosPrestamos;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+Scaffold-DbContext "Server=(localdb)\MSSQLlocaldb;Database=AhorrosPrestamos;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
